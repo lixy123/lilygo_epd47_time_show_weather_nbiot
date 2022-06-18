@@ -6,11 +6,11 @@
 <b>二.硬件</b>  <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.sim7020c 开发板 <br/>
-ESP32  sim7020c (接线)
-3.3V   VBAT
-GND    GND
-12     TXD
-13     RXD
+ESP32  sim7020c (接线)<br/>
+3.3V   VBAT<br/>
+GND    GND<br/>
+12     TXD<br/>
+13     RXD<br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather/blob/main/ink1.jpg?raw=true' /> <br/>
 
 <b>三.代码:</b><br/>
