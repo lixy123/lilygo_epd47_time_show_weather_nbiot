@@ -2,7 +2,7 @@
 <b>一.功能：</b> <br/>
 1.lilygo 4.7寸墨水屏每日1次通过互联网获取并显示天气, <br/> 
 2.待机状态低能耗约0.24ma.  每天唤醒1次，电流约70ma, 一般80秒后进入休眠待机状态， 18650电池供电理论预期应在3-5个月<br/>
-3.本代码是 https://github.com/lixy123/lilygo_epd47_time_show_weather 的扩展版本，用于墨水屏扩展连接wifi上网不方便的场景,
+3.本代码是 https://github.com//lilygo_epd47_time_show_weather 的扩展版本，用于墨水屏扩展连接wifi上网不方便的场景,
   不用局限于放在wifi路由器附近.  规避了esp32连接wifi偶尔会连接不上的稳定性问题.<br/>
    
 <b>二.硬件</b>  <br/>
@@ -13,8 +13,8 @@ ESP32  sim7020c (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/3.jpg?raw=true' /> <br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/4.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
 
 <b>三.代码:</b><br/>
 烧录到ESP32开发板<br/>
