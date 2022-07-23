@@ -15,13 +15,13 @@ ESP32  sim7020c (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
+<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
 
-(二).NBIOT用qs100 <br/>
+(二).NBIOT用 <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线 <br/>
-3.qs100 开发板 <br/>
+3. 开发板 <br/>
 ESP32 --qs100 (接线)<br/>
 3.3V 3.3V<br/>
 GND GND<br/>
@@ -33,7 +33,7 @@ GND GND<br/>
 1.epd47_sim7020_timer_weather<br/>
 nbiot用sim7020c<br/>
 2.epd47_qs100_timer_weather<br/>
-nbiot用<br/>
+nbiot用qs100<br/>
 
 烧录到ESP32开发板<br/>
 A.软件: arduino 1.8.19<br/>
