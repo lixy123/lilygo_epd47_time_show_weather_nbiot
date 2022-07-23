@@ -27,7 +27,7 @@ ESP32 --qs100 (接线)<br/>
 GND GND<br/>
 12 TXD<br/>
 13 RXD<br/>
-<img src= 'https://github.com/lixy23/lilygo_epd47_time_show_weather_nbiot/blob/main/20.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/20.jpg?raw=true' /> <br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/21.jpg?raw=true' /> <br/>
 
 <b>三.代码:</b><br/>
