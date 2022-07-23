@@ -6,6 +6,7 @@
   不用局限于放在wifi路由器附近.  规避了esp32连接wifi偶尔会连接不上的稳定性问题.<br/>
    
 <b>二.硬件</b>  <br/>
+(一).NBIOT用sim7020c
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
 2.2.0mm转2.54mm杜邦线10cm 4线 <br/>
 3.sim7020c 开发板 <br/>
@@ -16,6 +17,16 @@ GND    GND<br/>
 13     RXD<br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
+
+(二).NBIOT用qs100
+1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
+2.2.0mm转2.54mm杜邦线10cm 4线 <br/>
+3.qs100 开发板 <br/>
+ESP32 --qs100 (接线)<br/>
+3.3V 3.3V<br/>
+GND GND<br/>
+12 TXD<br/>
+13 RXD<br/>
 
 <b>三.代码:</b><br/>
 烧录到ESP32开发板<br/>
