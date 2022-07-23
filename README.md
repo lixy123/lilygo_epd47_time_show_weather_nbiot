@@ -44,7 +44,7 @@ https://github.com/espressif/arduino-esp32 版本:1.0.6<br/>
 https://github.com/bblanchon/ArduinoJson 版本: 6<br/>
 https://github.com/adafruit/RTClib RTClib <br/>
 https://github.com/Xinyuan-LilyGO/LilyGo-EPD47 墨水屏驱动库<br/>
-https://github.com/ivanseidel/LinkedList 列表对象，处理汉字用
+https://github.com/ivanseidel/LinkedList 列表对象，处理汉字用<br/>
 C.开发板选择：TTGO-T-WATCH 参数选默认 (字库文件较大，仅用到其分区定义)<br/>
 注： 较新的arduino版本才有这个开发板定义: TTGO T-Watch<br/>
 参考：https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library<br/>
