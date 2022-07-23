@@ -15,8 +15,8 @@ ESP32  sim7020c (接线)<br/>
 GND    GND<br/>
 12     TXD<br/>
 13     RXD<br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
-<img src= 'https://github.com//lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/1.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_time_show_weather_nbiot/blob/main/5.jpg?raw=true' /> <br/>
 
 (二).NBIOT用 <br/>
 1.lilygo-epd47 4.7寸墨水屏 + 锂电池 <br/>
